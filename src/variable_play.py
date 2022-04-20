@@ -20,6 +20,9 @@ your_name = "Tom"
 you_are_adult = False
 you_are_boy = True
 
+print("You Are an Adult =",you_are_adult)
+print("Your Are a Boy =",you_are_boy)
+
 
 # lets play with variables 
 # i will operation variable with another variable
